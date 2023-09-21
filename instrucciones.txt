@@ -8,3 +8,8 @@ Instrucciones - Fecha: 20/09/2023:
 Actividad 2
 1 integrante del equipo creara el proyecto (repositorio) y lo compartira con su equipo
 de trabajo para trabajar colaborativamente 
+
+Investigar:
+* trabajar con ramas
+ https://www.youtube.com/watch?v=3GymExBkKjE&t=5862s
+
