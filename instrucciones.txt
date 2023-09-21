@@ -1,0 +1,10 @@
+Instrucciones:
+* crear un proyecto (repositorio)
+* utilizar git para llevar control
+  de versiones
+* Realizar diversos cambios
+* Subir a github
+
+Actividad 2
+1 integrante del equipo creara el proyecto (repositorio) y lo compartira con su equipo
+de trabajo para trabajar colaborativamente 
