@@ -1,4 +1,4 @@
-Instrucciones:
+Instrucciones - Fecha: 20/09/2023:
 * crear un proyecto (repositorio)
 * utilizar git para llevar control
   de versiones
